@@ -77,10 +77,10 @@ npm run dev
 ## Screenshots
 
 ### Desktop View
-![Digital World Desktop Screenshot](screenshots/desktop.png)
+![Digital World Desktop Screenshot](screenshots/Desktop.png)
 
 ### Mobile View
-![Digital World Mobile Screenshot](screenshots/mobile.png)
+![Digital World Mobile Screenshot](screenshots/Mobile.png)
 ## Author
 
 Developed as part of the Apex Lark Full Stack Development Internship Program.
